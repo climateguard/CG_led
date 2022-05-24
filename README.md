@@ -1,6 +1,6 @@
 # [](https://github.com/climateguard/CG_led#official-library-for-cg_led-by-climateguard)Official CG_LED library by ClimateGuard
 
-**CG_LED is an ultracompact I2C-connectable thermal anemometer module based on NTC thermistors.**
+**CG_LED is a programmable LED controller based on ESP32**
 
 **Advantages:**
 - Low cost of a module
